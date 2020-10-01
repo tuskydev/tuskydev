@@ -1,6 +1,6 @@
 <h2>
   Hi there, I'm Mario - aka 
-  <a target="_blank" href="https://tuskydev.com/">TuskyDev</a>
+  <a href="https://tuskydev.com/" target="_blank" >TuskyDev</a>
   <img 
     src="https://im3.ezgif.com/tmp/ezgif-3-ba8bbf15506c.gif" 
     width= "70"
@@ -13,7 +13,7 @@
 
 <h3>
   Full Stack Web Developer from 
-  <a target="_blank" href="https://lambdaschool.com/">Lambda School</a>
+  <a href="https://lambdaschool.com/" target="_blank">Lambda School</a>
   <img 
     src="https://media.giphy.com/media/okNF0ZTUeOQ2XavMLi/giphy.gif"
     width="40"
@@ -49,15 +49,6 @@ let mario = {
 - [Eco-Soap Repo](https://github.com/Lambda-School-Labs/Labs25-Ecosoap-TeamC-FE)
 - [Eco-Soap Deployed](https://www.c.ecosoap.dev/)
 
-<h3>
-  Spotify Playing
-  <img
-    src="https://media.giphy.com/media/jSPJNgaJ2QSnjpGON9/giphy.gif" width=50
-  />
-</h3>
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -74,9 +65,18 @@ let mario = {
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
-<br />
 
 ---
+
+<h3>
+  Spotify Playing
+  <img
+    src="https://media.giphy.com/media/jSPJNgaJ2QSnjpGON9/giphy.gif" width=50
+  />
+</h3>
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+
 
 [website]: https://tuskydev.com/
 [instagram]: https://instagram.com/marioo.fernandez
