@@ -1,24 +1,62 @@
-### Hi there, I'm Mario - aka [TuskyDev][website] 👋
+<h2>
+  Hi there, I'm Mario - aka 
+  <a target="_blank" href="https://tuskydev.com/">TuskyDev</a>
+  <img 
+    src="https://im3.ezgif.com/tmp/ezgif-3-ba8bbf15506c.gif" 
+    width= "70"
+  />
+</h2>
 
-[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https://tuskydev.com/)](https://tuskydev.com/)
+<img align='right' src="https://media.giphy.com/media/UvJQnKhuHajX0yZXYO/giphy.gif" width="230">
 
-## I'm a Gamer, Friend, Developer, and Trumpet player!
-- 🔭 I’m currently working on a project called [Eco-Soap Bank][EcoSoap]!
-- 🌱 I’m striving to learn more in-depth Python, GraphQL, ApolloClient, and life. 🤣
-- 👯 I’m looking to collaborate with other developers!
-- 🥅 2020 Goals: To learn better interview skills, and improve upon my previous projects.
-- ⚡ Fun fact: I love to play the trumpet and saxophone.
+<img src="https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https://tuskydev.com/" href="https://tuskydev.com/"/>
 
-### Spotify Playing 🎧
+<h3>
+  Full Stack Web Developer from 
+  <a target="_blank" href="https://lambdaschool.com/">Lambda School</a>
+  <img 
+    src="https://media.giphy.com/media/okNF0ZTUeOQ2XavMLi/giphy.gif"
+    width="40"
+  />
+</h3>
+
+<em><b>Let's connect! I love meeting new people and growing from others' feedback and experiences.</b></em>
+[![Linkedin: tuskydev](https://img.shields.io/badge/-tuskydev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tuskydev/)](https://www.linkedin.com/in/tuskydev/)
+[![Twitter: tuskydev](https://img.shields.io/twitter/follow/tuskydev?style=social)](https://twitter.com/tuskydev)
+
+<h3> 
+  <img src="https://im3.ezgif.com/tmp/ezgif-3-32be038c674f.gif" width="50"/> 
+  A little about who I am...
+</h3>
+
+```javascript
+let mario = {
+  pronouns: "he" | "him",
+  code: {
+    'frontend': ['HTML', 'CSS', 'LESS/Sass', 'JavaScript', 'React.JS', 'Next.JS','TypeScript', 'Styled-Components'],
+    'backend': ['NodeJS', 'Express', 'GraphQL', 'TypeORM','Jest'],
+    'database': [ 'PostgreSQL', 'SQLite3', 'Redis'],
+    'devops': ['AWS', 'Vercel (was Zeit)', 'Heroku', 'GitHub Pages'],
+    'tools': ['GIT', 'GitHub', 'VSCode', 'Postman', 'Whimsical', 'Figma', 'DB-Designer', 'React libraries'],
+    }
+
+  'current_project': 'Eco-Soap' // an admin dashboard app (see link below)
+}
+```
+
+### Current Project
+
+- [Eco-Soap Repo](https://github.com/Lambda-School-Labs/Labs25-Ecosoap-TeamC-FE)
+- [Eco-Soap Deployed](https://www.c.ecosoap.dev/)
+
+<h3>
+  Spotify Playing
+  <img
+    src="https://media.giphy.com/media/jSPJNgaJ2QSnjpGON9/giphy.gif" width=50
+  />
+</h3>
+
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
-### Connect with me:
-
-[<img align="left" alt="tuskydev.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="tuskydev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="marioo.fernandez | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
 
 ### Languages and Tools:
 
@@ -40,13 +78,7 @@
 
 ---
 
-<summary>:zap: Github Stats</summary>
-
-<img align="left" alt="Didleslip's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tuskydev" />
-
-
-
 [website]: https://tuskydev.com/
 [instagram]: https://instagram.com/marioo.fernandez
 [linkedin]: https://www.linkedin.com/in/tuskydev/
-[EcoSoap]: https://github.com/Lambda-School-Labs/Labs25-Ecosoap-TeamC-FE
+[ecosoap]: https://github.com/Lambda-School-Labs/Labs25-Ecosoap-TeamC-FE
