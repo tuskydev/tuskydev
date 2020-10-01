@@ -1,6 +1,6 @@
 ### Hi there, I'm Mario - aka [TuskyDev][website] 👋
 
-[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https://mariofernandez.dev/)](https://mariofernandez.dev/)
+[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https://mariofernandez.dev/)](https://tuskydev.com/)
 
 ## I'm a Gamer, Friend, Developer, and Trumpet player!
 - 🔭 I’m currently working on a project called [Eco-Soap Bank][EcoSoap]!
