@@ -14,8 +14,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="mariofernandez.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="mariodev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="tuskydev.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="tuskydev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="marioo.fernandez | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
@@ -46,7 +46,7 @@
 
 
 
-[website]: https://mariofernandez.dev/
+[website]: https://tuskydev.com/
 [instagram]: https://instagram.com/marioo.fernandez
 [linkedin]: https://www.linkedin.com/in/tuskydev/
 [EcoSoap]: https://github.com/Lambda-School-Labs/Labs25-Ecosoap-TeamC-FE
