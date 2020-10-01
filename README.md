@@ -20,7 +20,7 @@
   />
 </h3>
 
-<em><b>Let's connect! I love meeting new people and growing from others' feedback and experiences.</b></em>
+<em><b>Let's connect! I love meeting new people and growing from others' feedback and experiences.</b></em><br/>
 [![Linkedin: tuskydev](https://img.shields.io/badge/-tuskydev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tuskydev/)](https://www.linkedin.com/in/tuskydev/)
 [![Twitter: tuskydev](https://img.shields.io/twitter/follow/tuskydev?style=social)](https://twitter.com/tuskydev)
 
