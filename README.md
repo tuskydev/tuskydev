@@ -42,11 +42,11 @@
 
 <summary>:zap: Github Stats</summary>
 
-<img align="left" alt="Didleslip's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Diddleslip" />
+<img align="left" alt="Didleslip's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tuskydev" />
 
 
 
 [website]: https://mariofernandez.dev/
 [instagram]: https://instagram.com/marioo.fernandez
-[linkedin]: https://www.linkedin.com/in/mariodev/
-[EcoSoap]: https://github.com/EcoSoapBank
+[linkedin]: https://www.linkedin.com/in/tuskydev/
+[EcoSoap]: https://github.com/Lambda-School-Labs/Labs25-Ecosoap-TeamC-FE
