@@ -2,7 +2,7 @@
   Hi there, I'm Mario - aka 
   <a href="https://tuskydev.com/" target="_blank" >TuskyDev</a>
   <img 
-    src="https://im3.ezgif.com/tmp/ezgif-3-ba8bbf15506c.gif" 
+    src="https://media.giphy.com/media/kKcKoPlL6RAtF6TZ0v/giphy.gif" 
     width= "70"
   />
 </h2>
@@ -25,7 +25,7 @@
 [![Twitter: tuskydev](https://img.shields.io/twitter/follow/tuskydev?style=social)](https://twitter.com/tuskydev)
 
 <h3> 
-  <img src="https://im3.ezgif.com/tmp/ezgif-3-32be038c674f.gif" width="50"/> 
+  <img src="https://media.giphy.com/media/kKcKoPlL6RAtF6TZ0v/giphy.gif" width="50"/> 
   A little about who I am...
 </h3>
 
