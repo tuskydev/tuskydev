@@ -65,13 +65,14 @@ let mario = {
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
+<br />
+<br />
 
 ---
 
 <img align='right' src="https://media.giphy.com/media/jSPJNgaJ2QSnjpGON9/giphy.gif" width="230">
 
 <h3>
-  <img align='right' src="https://media.giphy.com/media/jSPJNgaJ2QSnjpGON9/giphy.gif" width="230">
   Spotify Playing
 </h3>
 
