@@ -1,6 +1,6 @@
 <h2>
   Hi there, I'm Mario - aka 
-  <a href="https://tuskydev.com/" target="_blank" >TuskyDev</a>
+  <a href="https://github.com/tuskydev" target="_blank" >TuskyDev</a>
   <img 
     src="https://media.giphy.com/media/MwkyJ79beYGrhL56CF/giphy.gif" 
     width= "70"
@@ -9,7 +9,9 @@
 
 <img align='right' src="https://media.giphy.com/media/UvJQnKhuHajX0yZXYO/giphy.gif" width="230">
 
+<!---
 <img src="https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https://tuskydev.com/" href="https://tuskydev.com/"/>
+-->
 
 <h3>
   Full Stack Web Developer from 
