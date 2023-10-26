@@ -1,6 +1,6 @@
 <h2>
   Hi there, I'm Mario - aka 
-  <a>[github][TuskyDev]</a>
+  <a>[TuskyDev][github]</a>
   <img 
     src="https://media.giphy.com/media/MwkyJ79beYGrhL56CF/giphy.gif" 
     width= "70"
