@@ -68,6 +68,11 @@ let mario = {
 
 ---
 
+
+<img align='right' src="https://media.giphy.com/media/jSPJNgaJ2QSnjpGON9/giphy.gif" width="230">
+
+</br>
+
 <h3>
   Spotify Playing
 </h3>
