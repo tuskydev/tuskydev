@@ -75,10 +75,7 @@ let mario = {
   />
 </h3>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=312zj0dauzngy8xuzkuh27bn4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=312zj0dauzngy8xuzkuh27bn4&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=312zj0dauzngy8xuzkuh27bn4&redirect=true)
 
 [website]: https://tuskydev.com/
 [instagram]: https://instagram.com/marioo.fernandez
