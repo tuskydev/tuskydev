@@ -1,6 +1,6 @@
 <h2>
   Hi there, I'm Mario - aka 
-  [TuskyDev][github]
+  <a href="https://github.com/tuskydev/tuskydev" target="_blank">TuskyDev</a>
   <img 
     src="https://media.giphy.com/media/MwkyJ79beYGrhL56CF/giphy.gif" 
     width= "70"
@@ -83,4 +83,3 @@ let mario = {
 [linkedin]: https://www.linkedin.com/in/tuskydev/
 [ecosoap]: https://github.com/Lambda-School-Labs/Labs25-Ecosoap-TeamC-FE
 [github]: https://github.com/tuskydev/tuskydev
-[You can use numbers for reference-style link definitions][1]
