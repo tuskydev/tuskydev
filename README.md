@@ -70,6 +70,7 @@ let mario = {
 
 <h3>
   Spotify Playing
+  <img align='right' src="https://media.giphy.com/media/jSPJNgaJ2QSnjpGON9/giphy.gif" width="230">
 </h3>
 
 <img align='right' src="https://media.giphy.com/media/jSPJNgaJ2QSnjpGON9/giphy.gif" width="230">
