@@ -13,18 +13,14 @@
 <img src="https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https://tuskydev.com/" href="https://tuskydev.com/"/>
 -->
 
-<h3>
+<h2>
   Full Stack Web Developer from 
   <a href="https://lambdaschool.com/" target="_blank">Lambda School</a>
   <img 
     src="https://media.giphy.com/media/okNF0ZTUeOQ2XavMLi/giphy.gif"
     width="40"
   />
-</h3>
-
-<em><b>Let's connect! I love meeting new people and growing from others' feedback and experiences.</b></em><br/>
-[![Linkedin: tuskydev](https://img.shields.io/badge/-tuskydev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tuskydev/)](https://www.linkedin.com/in/tuskydev/)
-[![Twitter: tuskydev](https://img.shields.io/twitter/follow/tuskydev?style=social)](https://twitter.com/tuskydev)
+</h2>
 
 <h3> 
   <img src="https://media.giphy.com/media/kKcKoPlL6RAtF6TZ0v/giphy.gif" width="50"/> 
@@ -49,7 +45,9 @@ let mario = {
 ### Current Project
 
 - [Eco-Soap Repo](https://github.com/Lambda-School-Labs/Labs25-Ecosoap-TeamC-FE)
+<!---
 - [Eco-Soap Deployed](https://www.c.ecosoap.dev/)
+-->
 
 ### Languages and Tools:
 
@@ -78,8 +76,11 @@ let mario = {
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=312zj0dauzngy8xuzkuh27bn4&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=312zj0dauzngy8xuzkuh27bn4&redirect=true)
 
-[website]: https://tuskydev.com/
-[instagram]: https://instagram.com/marioo.fernandez
-[linkedin]: https://www.linkedin.com/in/tuskydev/
-[ecosoap]: https://github.com/Lambda-School-Labs/Labs25-Ecosoap-TeamC-FE
-[github]: https://github.com/tuskydev/tuskydev
+<br/>
+
+<dl>
+  <dt><b>"Comparison is the thief of joy" -Theodore Roosevelt</b></dt>
+</dl>
+
+[![Linkedin: tuskydev](https://img.shields.io/badge/-tuskydev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tuskydev/)](https://www.linkedin.com/in/tuskydev/)
+[![Twitter: tuskydev](https://img.shields.io/twitter/follow/tuskydev?style=social)](https://twitter.com/tuskydev)
