@@ -44,7 +44,7 @@ let mario = {
 
 ### Current Project
 
-- [MIT 6.00.1X]([https://www.edx.org/learn/computer-science/massachusetts-institute-of-technology-introduction-to-computer-science-and-programming-using-python)
+- [MIT 6.00.1X](https://www.edx.org/learn/computer-science/massachusetts-institute-of-technology-introduction-to-computer-science-and-programming-using-python)
 
 ### Languages and Tools:
 
