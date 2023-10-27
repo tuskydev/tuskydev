@@ -14,8 +14,8 @@
 -->
 
 <h2>
-  Full Stack Web Developer from 
-  <a href="https://lambdaschool.com/" target="_blank">Lambda School</a>
+  Full Time Student at 
+  <a href="https://github.com/ossu/data-science" target="_blank">OSSU</a>
   <img 
     src="https://media.giphy.com/media/okNF0ZTUeOQ2XavMLi/giphy.gif"
     width="40"
