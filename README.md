@@ -38,16 +38,13 @@ let mario = {
     'tools': ['GIT', 'GitHub', 'VSCode', 'Postman', 'Whimsical', 'Figma', 'DB-Designer', 'React libraries'],
     }
 
-  'current_project': 'Eco-Soap' // an admin dashboard app (see link below)
+  'current_project': 'MIT 6.00.1X/MIT 6.00.2X' // CS and Data Science class from MIT (see link below)
 }
 ```
 
 ### Current Project
 
-- [Eco-Soap Repo](https://github.com/Lambda-School-Labs/Labs25-Ecosoap-TeamC-FE)
-<!---
-- [Eco-Soap Deployed](https://www.c.ecosoap.dev/)
--->
+- [MIT 6.00.1X]([https://www.edx.org/learn/computer-science/massachusetts-institute-of-technology-introduction-to-computer-science-and-programming-using-python)
 
 ### Languages and Tools:
 
