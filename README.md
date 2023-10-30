@@ -38,13 +38,13 @@ let mario = {
     'tools': ['GIT', 'GitHub', 'VSCode', 'Postman', 'Whimsical', 'Figma', 'DB-Designer', 'React libraries'],
     }
 
-  'current_project': 'MIT 6.00.1X/MIT 6.00.2X' // CS and Data Science class from MIT (see link below)
+  'current_project': 'MIT 6.00.1X/MIT 6.00.2X' // Data Science and Algorithm class from MIT (see link below)
 }
 ```
 
 ### Current Project
 
-- [MIT 6.00.1X](https://www.edx.org/learn/computer-science/massachusetts-institute-of-technology-introduction-to-computer-science-and-programming-using-python)
+- [MIT 6.00.2X](https://www.edx.org/learn/computer-science/massachusetts-institute-of-technology-introduction-to-computational-thinking-and-data-science)
 
 ### Languages and Tools:
 
