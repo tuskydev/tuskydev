@@ -44,7 +44,7 @@ let mario = {
 
 ### Current Project
 
-- [MIT 6.00.2X](https://www.edx.org/learn/computer-science/massachusetts-institute-of-technology-introduction-to-computational-thinking-and-data-science)
+- [MIT 6.00.2X](https://github.com/tuskydev/MIT-6.00.2x)
 
 ### Languages and Tools:
 
