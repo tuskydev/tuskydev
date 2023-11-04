@@ -1,8 +1,8 @@
 <h1>
-  Hi there, I'm Mario - aka 
+  Hi there, I'm Mario - aka
   <a href="https://github.com/tuskydev" target="_blank">TuskyDev</a>
-  <img 
-    src="https://media.giphy.com/media/MwkyJ79beYGrhL56CF/giphy.gif" 
+  <img
+    src="https://media.giphy.com/media/MwkyJ79beYGrhL56CF/giphy.gif"
     width= "70"
   />
 </h1>
@@ -16,15 +16,15 @@
 <h2>
   <img align="left" src="https://media.giphy.com/media/kKcKoPlL6RAtF6TZ0v/giphy.gif" width="60"/>
 
-  Full Time Student at 
+  Full Time Student at
   <a href="https://github.com/ossu/data-science" target="_blank">OSSU</a>
-  <img 
+  <img
     src="https://media.giphy.com/media/okNF0ZTUeOQ2XavMLi/giphy.gif"
     width="40"
   />
 </h2>
 
-<h3> 
+<h3>
   A little about who I am...
 </h3>
 
