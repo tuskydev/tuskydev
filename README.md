@@ -14,6 +14,8 @@
 -->
 
 <h2>
+  <img align="left" src="https://media.giphy.com/media/kKcKoPlL6RAtF6TZ0v/giphy.gif" width="60"/>
+
   Full Time Student at 
   <a href="https://github.com/ossu/data-science" target="_blank">OSSU</a>
   <img 
@@ -23,7 +25,6 @@
 </h2>
 
 <h3> 
-  <img src="https://media.giphy.com/media/kKcKoPlL6RAtF6TZ0v/giphy.gif" width="50"/> 
   A little about who I am...
 </h3>
 
@@ -62,6 +63,7 @@ let mario = {
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
+<br/>
 
 ---
 
@@ -76,7 +78,9 @@ let mario = {
 <br/>
 
 <dl>
-  <dt><b>"Comparison is the thief of joy" -Theodore Roosevelt</b></dt>
+  <dt>
+    <b>"Comparison is the thief of joy" -Theodore Roosevelt</b>
+  </dt>
 </dl>
 
 [![Linkedin: tuskydev](https://img.shields.io/badge/-tuskydev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tuskydev/)](https://www.linkedin.com/in/tuskydev/)
