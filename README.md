@@ -39,7 +39,7 @@ let mario = {
     'tools': ['GIT', 'GitHub', 'VSCode', 'Postman', 'Whimsical', 'Figma', 'DB-Designer', 'React libraries'],
     }
 
-  'current_project': 'MIT 6.00.1X/MIT 6.00.2X' // Data Science and Algorithm class from MIT (see link below)
+  'current_project': 'MIT 6.00.2X/Python Game of Life'
 }
 ```
 
