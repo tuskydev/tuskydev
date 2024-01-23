@@ -39,13 +39,13 @@ let mario = {
     'tools': ['GIT', 'GitHub', 'VSCode', 'Postman', 'Whimsical', 'Figma', 'DB-Designer', 'React libraries'],
     }
 
-  'current_project': 'MIT 6.00.2X'
+  'current_project': 'Algortithms, Part 1'
 }
 ```
 
 ### Current Project
 
-- [MIT 6.00.2X](https://github.com/tuskydev/MIT-6.00.2x)
+- [Printeton Algortihms, Part 1](https://www.coursera.org/learn/algorithms-part1)
 
 ### Languages and Tools:
 
