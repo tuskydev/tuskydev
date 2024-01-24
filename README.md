@@ -39,13 +39,13 @@ let mario = {
     'tools': ['GIT', 'GitHub', 'VSCode', 'Postman', 'Whimsical', 'Figma', 'DB-Designer', 'React libraries'],
     }
 
-  'current_project': 'Algortithms, Part 1'
+  'current_project': 'Algorithms, Part 1'
 }
 ```
 
 ### Current Project
 
-- [Printeton Algortihms, Part 1](https://www.coursera.org/learn/algorithms-part1)
+- [Princeton Algorithms, Part 1](https://www.coursera.org/learn/algorithms-part1)
 
 ### Languages and Tools:
 
