@@ -39,13 +39,13 @@ let mario = {
     'tools': ['GIT', 'GitHub', 'VSCode', 'Postman', 'Whimsical', 'Figma', 'DB-Designer', 'React libraries'],
     }
 
-  'current_project': 'Algorithms, Part 1'
+  'current_project': 'GTx: Data Structures & Algorithms I'
 }
 ```
 
 ### Current Project
 
-- [Princeton Algorithms, Part 1](https://www.coursera.org/learn/algorithms-part1)
+- [GTx: Data Structures & Algorithms I](https://www.edx.org/learn/data-structures/the-georgia-institute-of-technology-data-structures-algorithms-i-arraylists-linkedlists-stacks-and-queues)
 
 ### Languages and Tools:
 
