@@ -1,6 +1,6 @@
 <h1>
   Hi there, I'm Mario - aka
-  <a href="https://github.com/tuskydev" target="_blank">TuskyDev</a>
+  <a href="https://tuskydev.com" target="_blank">TuskyDev</a>
   <img
     src="https://media.giphy.com/media/MwkyJ79beYGrhL56CF/giphy.gif"
     width= "70"
