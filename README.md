@@ -35,7 +35,7 @@ let mario = {
     'frontend': ['HTML', 'CSS', 'LESS/Sass', 'JavaScript', 'React.JS', 'Next.JS','TypeScript', 'Styled-Components'],
     'backend': ['NodeJS', 'Express', 'GraphQL', 'TypeORM','Jest'],
     'database': [ 'PostgreSQL', 'SQLite3', 'Redis'],
-    'devops': ['AWS', 'Vercel (was Zeit)', 'Heroku', 'GitHub Pages'],
+    'devops': ['AWS', 'Vercel', 'Heroku', 'GitHub Pages'],
     'tools': ['GIT', 'GitHub', 'VSCode', 'Postman', 'Whimsical', 'Figma', 'DB-Designer', 'React libraries'],
     }
 
