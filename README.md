@@ -39,7 +39,7 @@ let mario = {
     'tools': ['GIT', 'GitHub', 'VSCode', 'Postman', 'Whimsical', 'Figma', 'DB-Designer', 'React libraries'],
     }
 
-  'current_project': 'GTx: Data Structures & Algorithms I'
+  'current_project': 'GTx: Data Structures & Algorithms IV'
 }
 ```
 
