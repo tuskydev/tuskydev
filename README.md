@@ -45,7 +45,7 @@ let mario = {
 
 ### Current Project
 
-- [GTx: Data Structures & Algorithms I](https://www.edx.org/learn/data-structures/the-georgia-institute-of-technology-data-structures-algorithms-i-arraylists-linkedlists-stacks-and-queues)
+- [Algorithms IV: Pattern Matching, Dijkstra’s, MST, and Dynamic Programming Algorithms](https://www.edx.org/learn/data-structures/the-georgia-institute-of-technology-data-structures-algorithms-iv-pattern-matching-dijkstras-mst-and-dynamic-programming-algorithms)
 
 ### Languages and Tools:
 
